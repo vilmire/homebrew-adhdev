@@ -3,8 +3,8 @@ require "language/node"
 class Adhdev < Formula
   desc "Control plane for your coding agents — remote control CLI and IDE agents"
   homepage "https://adhf.dev"
-  url "https://registry.npmjs.org/adhdev/-/adhdev-1.0.75.tgz"
-  sha256 "54831a4fd9ffec5edffed896787c58a01ecda2c50c15319c8aa42d9ba6ea3fb4"
+  url "https://registry.npmjs.org/adhdev/-/adhdev-1.0.76.tgz"
+  sha256 "f38dd6868b7252c9b8c810ff58f378bca9347485fc8d4db7e76fb800327c10c0"
   license "AGPL-3.0-only"
 
   depends_on "node"
